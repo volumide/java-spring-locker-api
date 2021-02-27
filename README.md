@@ -2,4 +2,9 @@
 
 git clone 
 
-the server serves on port 8100
+server uses 
+
+```
+port 8100
+
+```
